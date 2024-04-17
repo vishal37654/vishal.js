@@ -1,0 +1,145 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.background-img {
+    width: 100%;
+    
+}
+
+.three
+{
+    margin-top: -70vh;
+    margin-left: 40vh;
+    color: white;
+}
+.three :hover
+{
+    background-color: orange;
+    transition: 0.8s;
+}
+.four
+{
+    margin-top: 0vh;
+    margin-left: 40vh;
+    color: yellow;
+}
+.fivee
+{
+    margin-left: 40vh;
+    font-size: 20px;
+    
+    color: #FFFF00;
+   
+}
+
+.two
+{
+    margin-top: -24.5vh;
+    margin-left: 13px;
+    
+    text-decoration: none;
+    cursor: pointer;
+   
+    font-size: 16px;
+    
+}
+.six
+{
+   
+color:yellow;
+text-decoration: none;
+margin-top: -40vh;
+}
+.seven
+{
+    color: yellow;
+    text-decoration: none;
+}
+.eight
+{
+    color: yellow;
+    text-decoration: none;
+}
+.nine
+{
+color: yellow;
+text-decoration: none;
+}
+
+.hello
+{
+    margin-left: 37vh;
+    color: white;
+    font-size: 28px;
+}
+.hell
+{
+    margin-left: 2vh;
+    color: white;
+    font-size: 28px;   
+}
+.hel
+{
+    margin-left: 2vh;
+    color: white;
+    font-size: 28px;     
+}
+.comp
+{
+    margin-left: 2vh;
+    color: white;
+    font-size: 28px; 
+}
+.uter
+{
+    margin-left: 2vh;
+    color: white;
+    font-size: 28px;
+}
+.class
+{
+    display: flex;
+    gap: 20px;
+    font-size: 24px;
+    margin-left: 40vh;
+    color: white;
+    
+}
+.image
+{
+    height: 70px;
+    width: 10vh;
+}
+.link1
+{
+    color: white;
+}
+.link2
+{
+    color: white;
+}
+.link3
+{
+    color: white;
+}
+.link4
+{
+    color: white;
+}
+.link5
+{
+    color: white;
+}
+.profile
+{
+    height: 150px;
+    border-radius: 150px;
+    margin-top: -100vh;
+}
+.back
+{
+    margin-top: -33vh;
+    margin-left: 2vh;
+}

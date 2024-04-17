@@ -1,0 +1,128 @@
+
+.co
+{
+   
+color:yellow;
+text-decoration: none;
+margin-top: -40vh;
+}
+.in
+{
+    color: yellow;
+    text-decoration: none;
+}
+.lear
+{
+    color: yellow;
+    text-decoration: none;
+}
+.ning
+{
+color: yellow;
+text-decoration: none;
+}
+.header
+{
+    margin-top: -65vh;
+    margin-left: 5px;
+    
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 16px;
+    
+}
+.h1
+{
+    color: yellow;
+    margin-top: -53vh;
+    margin-left: 30vh;
+   font-family: 'Times New Roman', Times, serif;
+}
+.ghi
+{
+    color: white;
+    margin-left: 200px;
+    font-family: sans-serif;
+}
+.jkl
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8vh;
+}
+.lkj
+{
+    color: white;
+    margin-left: 200px;
+    font-family: sans-serif;
+}
+.my
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8vh;
+}
+.fg
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5vh;
+}
+.nm
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8vh;
+}
+.fd
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5vh;   
+}
+.yu
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8vh;   
+}
+.rt
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5vh;  
+}
+.ed
+{
+    color: white;
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8vh;   
+}
+.io
+{
+    width: 100%;
+   height: fit-content;
+}
+.po
+{
+    
+  margin-top: -32.5vh;
+}
+.bv
+{
+    margin-top: -57vh;
+}
+.co:hover
+{
+color: black;
+    transition: 0.5s;
+}
